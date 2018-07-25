@@ -1,4 +1,6 @@
-﻿using System;
+// TAGS: FILE_SYSTEM, ARRAYS
+
+using System;
 
 class MainClass
 {
